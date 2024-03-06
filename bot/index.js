@@ -23,7 +23,7 @@ class Bot extends Discord.Client {
 module.exports = (token) => new Bot(token);
 
 // /**
-//  * Code Owner: Diwas Atreya (Atreya#2401)
-//  * Github: https://github.com/diwasatreya
-//  * Contact on Twitter: https://twitter.com/DiwasAtreya
+//  * Code Owner: Ipan S (-)
+//  * Github: https://github.com/panzngen
+//  * Contact on Discord: 
 //  */
