@@ -3,7 +3,7 @@
 <div align="center">
   
   
-  <img src="serverdash.png" />
+  <img src=" " />
 
   <h2 align="center">Discord-Server-Dashboard</h2>
 
