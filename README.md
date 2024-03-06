@@ -3,7 +3,7 @@
 <div align="center">
   
   
-  <img src=" " />
+  <img src="c39e8ce8d329c64865990ac04cf144b5-1.png" />
 
   <h2 align="center">Discord-Server-Dashboard</h2>
 
