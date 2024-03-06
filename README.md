@@ -18,7 +18,7 @@
 
 - Clone Repo
 ```
-git clone https://github.com/diwasatreya/Discord-Server-Dashboard.git
+git clone https://github.com/PanzNgen/Discord-Server-Dashboard
 ```
 
 - [Run in replit](https://repl.it/github/diwasatreya/Discord-Server-Dashboard)
@@ -47,7 +47,7 @@ Goto `routes/api.js` then add your api code
 <div align="center">
   <br>
   <h3> Star the Project </h3>
-  <p> Follow me on github & twitter </p>
+  <p> Follow me on github & discord </p>
  <img src="https://user-images.githubusercontent.com/74746579/168328818-6995ed8d-915d-4083-9279-3d94e1d150c5.png" alt="help to star">
  </div>
             
